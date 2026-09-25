@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.shaowuai.cn/sitemap.xml
